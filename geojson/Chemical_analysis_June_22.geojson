@@ -11,6 +11,11 @@
                 ]
             },
             "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
                 "name": "PyrGWS1",
                 "Ca+2": 87.70524629555467,
                 "Mg+2": 22.842,
